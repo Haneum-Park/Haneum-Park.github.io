@@ -4,7 +4,7 @@ gem "jekyll", ">= 4.2.0", "< 5.0"
 
 # plugins
 group :jekyll_plugins do
-  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
   gem "jekyll-redirect-from"
   gem "jekyll-seo-tag"
   gem "jekyll-archives"

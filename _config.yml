@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "https://haneum-park.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : 카누의 참고문헌
+email      : qkrgksdma17@gmail.com #this is also the email contact forms will go to
+description: "모든 신입 개발자가 좋은 성장을 이루기 위해 만든 사이트. 다만, 제 블로그가 정답이라는 것은 아니지만, 좋은 하나의 방법이라고 할 수 있습니다."
+author     : Haneum_Park
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
